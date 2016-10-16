@@ -4,7 +4,7 @@
 
 function reverseString(str) {
   var strSplit = str.split("");
-  reverse = strSplit.reverse();
+  var reverse = strSplit.reverse();
   return reverse.join("");
 }
 
