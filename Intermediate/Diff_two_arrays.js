@@ -15,5 +15,4 @@ function diffArray(arr1, arr2) {
   
   return answer;
 }
-
 diffArray([1, "calf", 3, "piglet"], [1, "calf", 3, 4]);
